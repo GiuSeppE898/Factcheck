@@ -14,9 +14,11 @@ sys.path.insert(0, "src")
 from retriever import carica_kb_statica, recupera_da_kb
 from scorer import calcola_score
 
-SUBSET_PATH = "data/fever_subset_it.json"
-KB_PATH     = "kb/fever_static_index"
-OUT_PATH    = "data/fever_results.json"
+import os
+BASE_DIR    = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SUBSET_PATH = os.path.join(BASE_DIR, "data", "fever_subset_it.json")
+KB_PATH     = os.path.join(BASE_DIR, "kb", "fever_static_index")
+OUT_PATH    = os.path.join(BASE_DIR, "data", "fever_results.json")
 
 # Carica l'indice statico una volta sola
 print("Loading static KB...")
