@@ -90,8 +90,9 @@ def calcola_score(claim: str, chunks: list[dict]) -> dict:
     prompt = PROMPT_TEMPLATE.format(claim=claim, contesto=contesto)
 
     risposta_raw = ollama.generate(
-        # model="phi3.5",  # locale MacBook
-        model="llama3.1:8b",  # Colab
+        # model="phi3.5",       # locale MacBook (baseline)
+        # model="llama3.1:8b",  # Colab / lab GPU
+        model="llama3.2:3b",   # locale MacBook M3 8GB
         prompt=prompt,
         options={"temperature": 0.0, "num_predict": 256}
     )["response"]
