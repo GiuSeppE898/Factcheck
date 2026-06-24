@@ -1,0 +1,758 @@
+[
+  {
+    "id": 75397,
+    "claim": "Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Nikolaj Coster-Waldau",
+      "Fox Broadcasting Company"
+    ],
+    "claim_it": "Nikolaj Coster-Waldau ha lavorato con la Fox Broadcasting Company."
+  },
+  {
+    "id": 150448,
+    "claim": "Roman Atwood is a content creator.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Roman Atwood"
+    ],
+    "claim_it": "Roman Atwood è un creatore di contenuti."
+  },
+  {
+    "id": 214861,
+    "claim": "History of art includes architecture, dance, sculpture, music, painting, poetry literature, theatre, narrative, film, photography and graphic arts.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "History of art"
+    ],
+    "claim_it": "Storia dell'arte include architettura, danza, scultura, musica, pittura, letteratura poetica, teatro, narrazione, cinema, fotografia e arte grafica."
+  },
+  {
+    "id": 129629,
+    "claim": "Homeland is an American television spy thriller based on the Israeli television series Prisoners of War.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Prisoners of War -LRB-TV series-RRB-",
+      "Homeland -LRB-TV series-RRB-"
+    ],
+    "claim_it": "Homeland è una spettacolo televisivo di spionaggio americano basato sulla serie televisiva israeliana Prigionieri di Guerra."
+  },
+  {
+    "id": 33078,
+    "claim": "The Boston Celtics play their home games at TD Garden.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Boston Celtics"
+    ],
+    "claim_it": "I Boston Celtics giocano le loro partite casalinghe al TD Garden."
+  },
+  {
+    "id": 6744,
+    "claim": "The Ten Commandments is an epic film.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "The Ten Commandments -LRB-1956 film-RRB-"
+    ],
+    "claim_it": "Il Dieci Comandamenti è un film epico."
+  },
+  {
+    "id": 226034,
+    "claim": "Tetris has sold millions of physical copies.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Tetris"
+    ],
+    "claim_it": "Tetris ha venduto milioni di copie fisiche."
+  },
+  {
+    "id": 40190,
+    "claim": "Cyndi Lauper won the Best New Artist award at the 27th Grammy Awards in 1985.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Cyndi Lauper"
+    ],
+    "claim_it": "Cyndi Lauper ha vinto il premio al Miglior Nuovo Artista ai 27esimi Grammy Awards nel 1985."
+  },
+  {
+    "id": 76253,
+    "claim": "There is a movie called The Hunger Games.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "The Hunger Games -LRB-film-RRB-"
+    ],
+    "claim_it": "C'è un film chiamato Il Giorno dei Morti."
+  },
+  {
+    "id": 188923,
+    "claim": "Ryan Gosling has been to a country in Africa.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Ryan Gosling",
+      "Chad"
+    ],
+    "claim_it": "Ryan Gosling ha visitato un paese in Africa."
+  },
+  {
+    "id": 129983,
+    "claim": "Ryan Seacrest is a person.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Ryan Seacrest"
+    ],
+    "claim_it": "Ryan Seacrest è una persona."
+  },
+  {
+    "id": 179616,
+    "claim": "Michael Giacchino composed the score for Doctor Strange.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Michael Giacchino"
+    ],
+    "claim_it": "Michael Giacchino compose la colonna sonora per Dr. Strange."
+  },
+  {
+    "id": 207456,
+    "claim": "Stranger than Fiction is a film.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Stranger than Fiction -LRB-2006 film-RRB-"
+    ],
+    "claim_it": "Stranger than Fiction è un film."
+  },
+  {
+    "id": 3,
+    "claim": "Chris Hemsworth appeared in A Perfect Getaway.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Chris Hemsworth"
+    ],
+    "claim_it": "Chris Hemsworth apparve in A Perfect Getaway."
+  },
+  {
+    "id": 93956,
+    "claim": "Selena recorded music.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Selena"
+    ],
+    "claim_it": "Selena registrò musica."
+  },
+  {
+    "id": 53133,
+    "claim": "Robert J. O'Neill was born April 10, 1976.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Robert J. O'Neill -LRB-U.S. Navy SEAL-RRB-"
+    ],
+    "claim_it": "Robert J. O'Neill è nato il 10 aprile 1976."
+  },
+  {
+    "id": 228271,
+    "claim": "The Silence of the Lambs was a film starring Scott Glenn.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "The Silence of the Lambs -LRB-film-RRB-"
+    ],
+    "claim_it": "The Silence of the Lambs era un film con Scott Glenn."
+  },
+  {
+    "id": 214706,
+    "claim": "Tupac Shakur was born Lesane Parish Crooks.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Tupac Shakur"
+    ],
+    "claim_it": "Tupac Shakur era nato Lesane Parish Crooks."
+  },
+  {
+    "id": 172270,
+    "claim": "The Jim Henson Company produced The Muppet Movie, The Dark Crystal, and Labyrinth.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "The Jim Henson Company"
+    ],
+    "claim_it": "La Jim Henson Company ha prodotto The Muppet Movie, The Dark Crystal e Labyrinth."
+  },
+  {
+    "id": 64557,
+    "claim": "Slovenia uses the euro.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Eurozone",
+      "Slovenia"
+    ],
+    "claim_it": "La Slovenia usa l'euro."
+  },
+  {
+    "id": 200996,
+    "claim": "Iowa is a part of the Midwestern United States.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Midwestern United States"
+    ],
+    "claim_it": "Iowa fa parte del Mediooccidente degli Stati Uniti."
+  },
+  {
+    "id": 206132,
+    "claim": "Saratoga is an American film from 1937.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Saratoga -LRB-film-RRB-"
+    ],
+    "claim_it": "Saratoga è un film americano del 1937."
+  },
+  {
+    "id": 215831,
+    "claim": "J. Howard Marshall was a baby.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "J. Howard Marshall",
+      "Infant"
+    ],
+    "claim_it": "J. Howard Marshall era un bambino."
+  },
+  {
+    "id": 170685,
+    "claim": "Lisbon has a population larger than 1.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Lisbon"
+    ],
+    "claim_it": "Lisbona ha una popolazione maggiore di 1."
+  },
+  {
+    "id": 119264,
+    "claim": "Malcolm Young was the co-founder of Australian hard rock band AC/DC.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Malcolm Young"
+    ],
+    "claim_it": "Malcolm Young era il fondatore della band hard rock australiana AC/DC."
+  },
+  {
+    "id": 77712,
+    "claim": "Newfoundland and Labrador is the most linguistically homogeneous of Canada.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Newfoundland and Labrador"
+    ],
+    "claim_it": "Newfoundland and Labrador è la regione più linguisticamente omogenea del Canada."
+  },
+  {
+    "id": 74400,
+    "claim": "One state of the United States has Russia to its west.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "United States"
+    ],
+    "claim_it": "Un stato degli Stati Uniti ha la Russia a ovest di esso."
+  },
+  {
+    "id": 91253,
+    "claim": "Sophie Turner was born in the 1990s.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Sophie Turner"
+    ],
+    "claim_it": "Sophie Turner è nata negli anni '90."
+  },
+  {
+    "id": 53316,
+    "claim": "Mother Teresa was made a saint by the church.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Mother Teresa"
+    ],
+    "claim_it": "Madre Teresa fu proclamata santa dalla chiesa."
+  },
+  {
+    "id": 189815,
+    "claim": "The Smurfs (film) was released.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "The Smurfs -LRB-film-RRB-"
+    ],
+    "claim_it": "The Smurfs (filmo) fu rilasciato."
+  },
+  {
+    "id": 156709,
+    "claim": "Adrienne Bailon is an accountant.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Adrienne Bailon"
+    ],
+    "claim_it": "Adrienne Bailon è un contabile."
+  },
+  {
+    "id": 138503,
+    "claim": "Stranger Things is set in Bloomington, Indiana.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Stranger Things"
+    ],
+    "claim_it": "Stranger Things è ambientato a Bloomington, Indiana."
+  },
+  {
+    "id": 73170,
+    "claim": "Puerto Rico is not an unincorporated territory of the United States.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Puerto Rico"
+    ],
+    "claim_it": "Puerto Rico non è una terra non incorporata degli Stati Uniti d'America."
+  },
+  {
+    "id": 15812,
+    "claim": "Peggy Sue Got Married is a Egyptian film released in 1986.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Peggy Sue Got Married",
+      "Francis Ford Coppola"
+    ],
+    "claim_it": "Peggy Sue È Cattolica è un film egiziano uscito nel 1986."
+  },
+  {
+    "id": 57330,
+    "claim": "Andy Roddick lost 5 Master Series between 2002 and 2010.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Andy Roddick"
+    ],
+    "claim_it": "Andy Roddick ha perso 5 Masters tra il 2002 e il 2010."
+  },
+  {
+    "id": 52432,
+    "claim": "As the Vietnam War raged in 1969, Yoko Ono and her husband John Lennon did not have two week-long Bed-Ins for Peace.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Bed-In"
+    ],
+    "claim_it": "Il Vietnam Guerra scoppiò nel 1969 e durante questo periodo la signora Yoko Ono e suo marito John Lennon non ebbero due settimane di Stanze per la Pace."
+  },
+  {
+    "id": 180769,
+    "claim": "Grace Jones is a dancer.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Grace Jones"
+    ],
+    "claim_it": "Grace Jones è ballerina."
+  },
+  {
+    "id": 111602,
+    "claim": "Willie Nelson dropped out of college after three years.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Willie Nelson"
+    ],
+    "claim_it": "Willie Nelson abbandonò la scuola dopo tre anni."
+  },
+  {
+    "id": 184132,
+    "claim": "Furia is adapted from a short story by Anna Politkovskaya.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Furia -LRB-film-RRB-"
+    ],
+    "claim_it": "Furia è adattata dalla breve storia di Anna Politkovskaya."
+  },
+  {
+    "id": 110847,
+    "claim": "C. S. Forester's first name was Carl.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "C. S. Forester"
+    ],
+    "claim_it": "Carlo fu il nome di C. S. Forester."
+  },
+  {
+    "id": 36776,
+    "claim": "Kong: Skull Island is a book.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Kong-COLON- Skull Island"
+    ],
+    "claim_it": "Kong: Skull Island è un libro."
+  },
+  {
+    "id": 137323,
+    "claim": "The Challenge was a scripted show.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "The Challenge -LRB-TV series-RRB-"
+    ],
+    "claim_it": "The Challenge era una serie televisiva drammatizzata."
+  },
+  {
+    "id": 32126,
+    "claim": "Red Headed Stranger is a movie.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Red Headed Stranger"
+    ],
+    "claim_it": "Red Headed Stranger è un film."
+  },
+  {
+    "id": 30865,
+    "claim": "Chester Bennington is not a singer.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Chester Bennington"
+    ],
+    "claim_it": "Chester Bennington non è un cantante."
+  },
+  {
+    "id": 170078,
+    "claim": "David Beckham has zero middle names.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "David Beckham"
+    ],
+    "claim_it": "David Beckham ha zero cognomi medi."
+  },
+  {
+    "id": 143348,
+    "claim": "Indiana Jones has only been portrayed by Harrison Ford.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Indiana Jones"
+    ],
+    "claim_it": "Indiana Jones è stato interpretato solo da Harrison Ford."
+  },
+  {
+    "id": 93444,
+    "claim": "Shane Black and Chris Miller wrote Iron Man 3.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Iron Man 3"
+    ],
+    "claim_it": "Shane Black e Chris Miller hanno scritto Iron Man 3."
+  },
+  {
+    "id": 181753,
+    "claim": "La La Anthony was conceived on June 25th, 1979.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "La La Anthony"
+    ],
+    "claim_it": "La La Anthony fu concepita il 25 giugno 1979."
+  },
+  {
+    "id": 86378,
+    "claim": "Filmfare is about cheese.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Filmfare"
+    ],
+    "claim_it": "Filmfare riguarda il formaggio."
+  },
+  {
+    "id": 140101,
+    "claim": "Buckingham Palace lacks brightly colored scagliola.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Buckingham Palace"
+    ],
+    "claim_it": "Il Palazzo di Buckingham manca di scagliola brillantemente colorate."
+  },
+  {
+    "id": 132873,
+    "claim": "José María Chacón surrendered the island of Trinidad in 1797, one year before his death.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "José María Chacón"
+    ],
+    "claim_it": "José María Chacón consegnò l'isola di Trinidad nel 1797, un anno prima della sua morte."
+  },
+  {
+    "id": 60225,
+    "claim": "Brock Lesnar married Randy Couture.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Brock Lesnar"
+    ],
+    "claim_it": "Brock Lesnar sposò Randy Couture."
+  },
+  {
+    "id": 116614,
+    "claim": "21 Jump Street was released June 16, 2012.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "21 Jump Street -LRB-film-RRB-"
+    ],
+    "claim_it": "21 Jump Street è stato rilasciato il 16 giugno 2012."
+  },
+  {
+    "id": 145636,
+    "claim": "Stephon Marbury plays basketball in America.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Stephon Marbury"
+    ],
+    "claim_it": "Stephon Marbury gioca basket negli Stati Uniti."
+  },
+  {
+    "id": 168445,
+    "claim": "Julius Caesar is only a book.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Julius Caesar -LRB-1953 film-RRB-"
+    ],
+    "claim_it": "Julio Cesare è solo un libro."
+  },
+  {
+    "id": 69880,
+    "claim": "Absolute Beginners was directed by Hitchcock.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Absolute Beginners -LRB-film-RRB-"
+    ],
+    "claim_it": "Abissimo iniziatore fu diretto da Hitchcock."
+  },
+  {
+    "id": 166161,
+    "claim": "Dangerous Liaisons is based on Christopher Hampton's novel.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Dangerous Liaisons"
+    ],
+    "claim_it": "Dangerous Liaisons si basa sul romanzo di Christopher Hampton."
+  },
+  {
+    "id": 189135,
+    "claim": "Massachusetts is far away from Rhode Island.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Massachusetts"
+    ],
+    "claim_it": "Massachusetts è lontano da Rhode Island."
+  },
+  {
+    "id": 37693,
+    "claim": "Giancarlo Stanton was in the 2017 MLB draft.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Giancarlo Stanton"
+    ],
+    "claim_it": "Giancarlo Stanton era nella selezione del draft della MLB del 2017."
+  },
+  {
+    "id": 95895,
+    "claim": "Ryan Phillippe refused to perform in the soap opera One Life to Live.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Ryan Phillippe"
+    ],
+    "claim_it": "Ryan Phillippe rifiutò di esibirsi nella soap opera One Life to Live."
+  },
+  {
+    "id": 83235,
+    "claim": "System of a Down briefly disbanded in limbo.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Sistema di Adempiere brevemente si trovava nel dubbio."
+  },
+  {
+    "id": 149579,
+    "claim": "Beautiful reached number two on the Billboard Hot 100 in 2003.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Beautiful ha raggiunto il numero due nella Billboard Hot 100 nel 2003."
+  },
+  {
+    "id": 229289,
+    "claim": "Neal Schon was named in 1954.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Neal Schon fu nominato nel 1954."
+  },
+  {
+    "id": 138117,
+    "claim": "John Wick: Chapter 2 was theatrically released in the Oregon.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "John Wick: Chapter 2 è stato distribuito al cinema in Oregon."
+  },
+  {
+    "id": 210010,
+    "claim": "Afghanistan is the source of the Kushan dynasty.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Afghanistan è la fonte della dinastia Kushan."
+  },
+  {
+    "id": 134381,
+    "claim": "Marilyn Monroe worked with Warner Brothers.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Marilyn Monroe lavorò con Warner Brothers."
+  },
+  {
+    "id": 228761,
+    "claim": "Harold Ramis was a veteran.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Harold Ramis era un veterano."
+  },
+  {
+    "id": 85441,
+    "claim": "United Nations was relocated to the United States in 1945.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Un'alleanza delle Nazioni Unite fu spostata negli Stati Uniti nel 1945."
+  },
+  {
+    "id": 65960,
+    "claim": "Whoopi Goldberg co-produced an American dance tournament.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Whoopi Goldberg ha co-prodotto un torneo di danza americano."
+  },
+  {
+    "id": 56204,
+    "claim": "Keith Urban is a person who sings.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Keith Urban è una persona che canta."
+  },
+  {
+    "id": 190922,
+    "claim": "Hotell is owned by Lisa Langseth.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Hotel è di proprietà di Lisa Langseth."
+  },
+  {
+    "id": 106718,
+    "claim": "Nice & Slow is a jazz single.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Nice & Slow è una singola di jazz."
+  },
+  {
+    "id": 14507,
+    "claim": "Jimmy Carter led the international boycott of the 2010 Olympics.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Jimmy Carter ha guidato il boicottaggio internazionale dei Giochi del 2010."
+  },
+  {
+    "id": 146541,
+    "claim": "Hulk(comics) is a cooking recipe published by Marvel Comics recipe books.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Hulk (albi per fumetti) è una ricetta di cucina pubblicata dai libri di ricette Marvel Comics."
+  },
+  {
+    "id": 103450,
+    "claim": "The blue-ringed octopus hunts sharks.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "L'octopode a anelli blu caccia squali."
+  },
+  {
+    "id": 160892,
+    "claim": "Buddy Holly's dog's name was Tito Rodriguez.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Il nome del cane di Buddy Holly era Tito Rodríguez."
+  },
+  {
+    "id": 56061,
+    "claim": "Richard Eyre was born on an island.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Richard Eyre è nato su un'isola."
+  },
+  {
+    "id": 31832,
+    "claim": "Ricky Martin has cried on TV.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Ricky Martin ha pianto su TV."
+  },
+  {
+    "id": 187342,
+    "claim": "Paul Wesley is a professional alias.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Paul Wesley è un nome d'arte professionale."
+  },
+  {
+    "id": 80579,
+    "claim": "The Existence of God has been argued through the Five Ways.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "L'esistenza di Dio è stata argomentata attraverso i Cinque Modi."
+  },
+  {
+    "id": 223596,
+    "claim": "Nicole Scherzinger toured 15 times.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Nicole Scherzinger ha tourizzato 15 volte."
+  },
+  {
+    "id": 200927,
+    "claim": "Sade (singer) has a song called London.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Sade, cantante, ha una canzone chiamata Londra."
+  },
+  {
+    "id": 77240,
+    "claim": "Martin Scorsese worked on commission.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Martin Scorsese lavorò su commissione."
+  },
+  {
+    "id": 112818,
+    "claim": "Snowden's cast includes two actors born in 1934.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Cast di Snowden include due attori nati nel 1934."
+  },
+  {
+    "id": 128969,
+    "claim": "Tiger Woods had an uncontested victory at the Arnold Palmer Invitational.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Tiger Woods ha avuto una vittoria non contestata all'Arnold Palmer Invitational."
+  },
+  {
+    "id": 113942,
+    "claim": "Bob Dylan has been inducted into four different colleges.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Bob Dylan è stato indotto in quattro college differenti."
+  },
+  {
+    "id": 209044,
+    "claim": "Chris Terrio was born in Kansas.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Chris Terrio è nato nel Kansas."
+  },
+  {
+    "id": 149155,
+    "claim": "Stephen Hawking is an Honorary Fellow of the Royal Society of Chemistry.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Stephen Hawking era un Fellow onorario della Società Reale di Chimica."
+  },
+  {
+    "id": 94810,
+    "claim": "Tiger Woods is a bowler.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Tiger Woods è un bowler."
+  },
+  {
+    "id": 42597,
+    "claim": "Sense and Sensibility was published in the summer of 1811.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": [],
+    "claim_it": "Senso e Sensibilità fu pubblicata nell'estate del 1811."
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "id": 75397,
+    "claim": "Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Nikolaj Coster-Waldau",
+      "Fox Broadcasting Company"
+    ]
+  },
+  {
+    "id": 150448,
+    "claim": "Roman Atwood is a content creator.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Roman Atwood"
+    ]
+  },
+  {
+    "id": 214861,
+    "claim": "History of art includes architecture, dance, sculpture, music, painting, poetry literature, theatre, narrative, film, photography and graphic arts.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "History of art"
+    ]
+  },
+  {
+    "id": 129629,
+    "claim": "Homeland is an American television spy thriller based on the Israeli television series Prisoners of War.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Prisoners of War -LRB-TV series-RRB-",
+      "Homeland -LRB-TV series-RRB-"
+    ]
+  },
+  {
+    "id": 33078,
+    "claim": "The Boston Celtics play their home games at TD Garden.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Boston Celtics"
+    ]
+  },
+  {
+    "id": 6744,
+    "claim": "The Ten Commandments is an epic film.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "The Ten Commandments -LRB-1956 film-RRB-"
+    ]
+  },
+  {
+    "id": 226034,
+    "claim": "Tetris has sold millions of physical copies.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Tetris"
+    ]
+  },
+  {
+    "id": 40190,
+    "claim": "Cyndi Lauper won the Best New Artist award at the 27th Grammy Awards in 1985.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Cyndi Lauper"
+    ]
+  },
+  {
+    "id": 76253,
+    "claim": "There is a movie called The Hunger Games.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "The Hunger Games -LRB-film-RRB-"
+    ]
+  },
+  {
+    "id": 188923,
+    "claim": "Ryan Gosling has been to a country in Africa.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Ryan Gosling",
+      "Chad"
+    ]
+  },
+  {
+    "id": 129983,
+    "claim": "Ryan Seacrest is a person.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Ryan Seacrest"
+    ]
+  },
+  {
+    "id": 179616,
+    "claim": "Michael Giacchino composed the score for Doctor Strange.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Michael Giacchino"
+    ]
+  },
+  {
+    "id": 207456,
+    "claim": "Stranger than Fiction is a film.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Stranger than Fiction -LRB-2006 film-RRB-"
+    ]
+  },
+  {
+    "id": 3,
+    "claim": "Chris Hemsworth appeared in A Perfect Getaway.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Chris Hemsworth"
+    ]
+  },
+  {
+    "id": 93956,
+    "claim": "Selena recorded music.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Selena"
+    ]
+  },
+  {
+    "id": 53133,
+    "claim": "Robert J. O'Neill was born April 10, 1976.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Robert J. O'Neill -LRB-U.S. Navy SEAL-RRB-"
+    ]
+  },
+  {
+    "id": 228271,
+    "claim": "The Silence of the Lambs was a film starring Scott Glenn.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "The Silence of the Lambs -LRB-film-RRB-"
+    ]
+  },
+  {
+    "id": 214706,
+    "claim": "Tupac Shakur was born Lesane Parish Crooks.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Tupac Shakur"
+    ]
+  },
+  {
+    "id": 172270,
+    "claim": "The Jim Henson Company produced The Muppet Movie, The Dark Crystal, and Labyrinth.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "The Jim Henson Company"
+    ]
+  },
+  {
+    "id": 64557,
+    "claim": "Slovenia uses the euro.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Eurozone",
+      "Slovenia"
+    ]
+  },
+  {
+    "id": 200996,
+    "claim": "Iowa is a part of the Midwestern United States.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Midwestern United States"
+    ]
+  },
+  {
+    "id": 206132,
+    "claim": "Saratoga is an American film from 1937.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Saratoga -LRB-film-RRB-"
+    ]
+  },
+  {
+    "id": 215831,
+    "claim": "J. Howard Marshall was a baby.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "J. Howard Marshall",
+      "Infant"
+    ]
+  },
+  {
+    "id": 170685,
+    "claim": "Lisbon has a population larger than 1.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Lisbon"
+    ]
+  },
+  {
+    "id": 119264,
+    "claim": "Malcolm Young was the co-founder of Australian hard rock band AC/DC.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Malcolm Young"
+    ]
+  },
+  {
+    "id": 77712,
+    "claim": "Newfoundland and Labrador is the most linguistically homogeneous of Canada.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Newfoundland and Labrador"
+    ]
+  },
+  {
+    "id": 74400,
+    "claim": "One state of the United States has Russia to its west.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "United States"
+    ]
+  },
+  {
+    "id": 91253,
+    "claim": "Sophie Turner was born in the 1990s.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Sophie Turner"
+    ]
+  },
+  {
+    "id": 53316,
+    "claim": "Mother Teresa was made a saint by the church.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "Mother Teresa"
+    ]
+  },
+  {
+    "id": 189815,
+    "claim": "The Smurfs (film) was released.",
+    "label": "SUPPORTS",
+    "evidence_pages": [
+      "The Smurfs -LRB-film-RRB-"
+    ]
+  },
+  {
+    "id": 156709,
+    "claim": "Adrienne Bailon is an accountant.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Adrienne Bailon"
+    ]
+  },
+  {
+    "id": 138503,
+    "claim": "Stranger Things is set in Bloomington, Indiana.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "id": 73170,
+    "claim": "Puerto Rico is not an unincorporated territory of the United States.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Puerto Rico"
+    ]
+  },
+  {
+    "id": 15812,
+    "claim": "Peggy Sue Got Married is a Egyptian film released in 1986.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Peggy Sue Got Married",
+      "Francis Ford Coppola"
+    ]
+  },
+  {
+    "id": 57330,
+    "claim": "Andy Roddick lost 5 Master Series between 2002 and 2010.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Andy Roddick"
+    ]
+  },
+  {
+    "id": 52432,
+    "claim": "As the Vietnam War raged in 1969, Yoko Ono and her husband John Lennon did not have two week-long Bed-Ins for Peace.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Bed-In"
+    ]
+  },
+  {
+    "id": 180769,
+    "claim": "Grace Jones is a dancer.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Grace Jones"
+    ]
+  },
+  {
+    "id": 111602,
+    "claim": "Willie Nelson dropped out of college after three years.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Willie Nelson"
+    ]
+  },
+  {
+    "id": 184132,
+    "claim": "Furia is adapted from a short story by Anna Politkovskaya.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Furia -LRB-film-RRB-"
+    ]
+  },
+  {
+    "id": 110847,
+    "claim": "C. S. Forester's first name was Carl.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "C. S. Forester"
+    ]
+  },
+  {
+    "id": 36776,
+    "claim": "Kong: Skull Island is a book.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Kong-COLON- Skull Island"
+    ]
+  },
+  {
+    "id": 137323,
+    "claim": "The Challenge was a scripted show.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "The Challenge -LRB-TV series-RRB-"
+    ]
+  },
+  {
+    "id": 32126,
+    "claim": "Red Headed Stranger is a movie.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Red Headed Stranger"
+    ]
+  },
+  {
+    "id": 30865,
+    "claim": "Chester Bennington is not a singer.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Chester Bennington"
+    ]
+  },
+  {
+    "id": 170078,
+    "claim": "David Beckham has zero middle names.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "David Beckham"
+    ]
+  },
+  {
+    "id": 143348,
+    "claim": "Indiana Jones has only been portrayed by Harrison Ford.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Indiana Jones"
+    ]
+  },
+  {
+    "id": 93444,
+    "claim": "Shane Black and Chris Miller wrote Iron Man 3.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Iron Man 3"
+    ]
+  },
+  {
+    "id": 181753,
+    "claim": "La La Anthony was conceived on June 25th, 1979.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "La La Anthony"
+    ]
+  },
+  {
+    "id": 86378,
+    "claim": "Filmfare is about cheese.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Filmfare"
+    ]
+  },
+  {
+    "id": 140101,
+    "claim": "Buckingham Palace lacks brightly colored scagliola.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Buckingham Palace"
+    ]
+  },
+  {
+    "id": 132873,
+    "claim": "José María Chacón surrendered the island of Trinidad in 1797, one year before his death.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "José María Chacón"
+    ]
+  },
+  {
+    "id": 60225,
+    "claim": "Brock Lesnar married Randy Couture.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Brock Lesnar"
+    ]
+  },
+  {
+    "id": 116614,
+    "claim": "21 Jump Street was released June 16, 2012.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "21 Jump Street -LRB-film-RRB-"
+    ]
+  },
+  {
+    "id": 145636,
+    "claim": "Stephon Marbury plays basketball in America.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Stephon Marbury"
+    ]
+  },
+  {
+    "id": 168445,
+    "claim": "Julius Caesar is only a book.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Julius Caesar -LRB-1953 film-RRB-"
+    ]
+  },
+  {
+    "id": 69880,
+    "claim": "Absolute Beginners was directed by Hitchcock.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Absolute Beginners -LRB-film-RRB-"
+    ]
+  },
+  {
+    "id": 166161,
+    "claim": "Dangerous Liaisons is based on Christopher Hampton's novel.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Dangerous Liaisons"
+    ]
+  },
+  {
+    "id": 189135,
+    "claim": "Massachusetts is far away from Rhode Island.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Massachusetts"
+    ]
+  },
+  {
+    "id": 37693,
+    "claim": "Giancarlo Stanton was in the 2017 MLB draft.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Giancarlo Stanton"
+    ]
+  },
+  {
+    "id": 95895,
+    "claim": "Ryan Phillippe refused to perform in the soap opera One Life to Live.",
+    "label": "REFUTES",
+    "evidence_pages": [
+      "Ryan Phillippe"
+    ]
+  },
+  {
+    "id": 83235,
+    "claim": "System of a Down briefly disbanded in limbo.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 149579,
+    "claim": "Beautiful reached number two on the Billboard Hot 100 in 2003.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 229289,
+    "claim": "Neal Schon was named in 1954.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 138117,
+    "claim": "John Wick: Chapter 2 was theatrically released in the Oregon.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 210010,
+    "claim": "Afghanistan is the source of the Kushan dynasty.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 134381,
+    "claim": "Marilyn Monroe worked with Warner Brothers.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 228761,
+    "claim": "Harold Ramis was a veteran.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 85441,
+    "claim": "United Nations was relocated to the United States in 1945.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 65960,
+    "claim": "Whoopi Goldberg co-produced an American dance tournament.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 56204,
+    "claim": "Keith Urban is a person who sings.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 190922,
+    "claim": "Hotell is owned by Lisa Langseth.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 106718,
+    "claim": "Nice & Slow is a jazz single.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 14507,
+    "claim": "Jimmy Carter led the international boycott of the 2010 Olympics.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 146541,
+    "claim": "Hulk(comics) is a cooking recipe published by Marvel Comics recipe books.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 103450,
+    "claim": "The blue-ringed octopus hunts sharks.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 160892,
+    "claim": "Buddy Holly's dog's name was Tito Rodriguez.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 56061,
+    "claim": "Richard Eyre was born on an island.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 31832,
+    "claim": "Ricky Martin has cried on TV.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 187342,
+    "claim": "Paul Wesley is a professional alias.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 80579,
+    "claim": "The Existence of God has been argued through the Five Ways.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 223596,
+    "claim": "Nicole Scherzinger toured 15 times.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 200927,
+    "claim": "Sade (singer) has a song called London.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 77240,
+    "claim": "Martin Scorsese worked on commission.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 112818,
+    "claim": "Snowden's cast includes two actors born in 1934.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 128969,
+    "claim": "Tiger Woods had an uncontested victory at the Arnold Palmer Invitational.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 113942,
+    "claim": "Bob Dylan has been inducted into four different colleges.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 209044,
+    "claim": "Chris Terrio was born in Kansas.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 149155,
+    "claim": "Stephen Hawking is an Honorary Fellow of the Royal Society of Chemistry.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 94810,
+    "claim": "Tiger Woods is a bowler.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  },
+  {
+    "id": 42597,
+    "claim": "Sense and Sensibility was published in the summer of 1811.",
+    "label": "NOT ENOUGH INFO",
+    "evidence_pages": []
+  }
+]
