@@ -21,7 +21,8 @@ Reply EXACTLY in this format, nothing else:
 
 def chiedi_llm(frase: str) -> str:
     risposta = ollama.generate(
-        model="phi3.5",
+        # model="phi3.5",  # locale 
+        model="llama3.1:8b",  # Colab
         prompt=PROMPT_TEMPLATE.format(frase=frase),
         options={"temperature": 0.0, "num_predict": 512}
     )
