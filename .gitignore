@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 kb/
 data/fever_results.json
+.venv/
