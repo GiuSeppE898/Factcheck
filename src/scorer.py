@@ -1,7 +1,7 @@
 import ollama
 import json
 import re
-
+MODEL = "llama3.1:8b"  
 PROMPT_ZERO_SHOT = """You are a fact-checking system.
 
 You have received a claim to verify and some excerpts from reference sources.
@@ -80,7 +80,77 @@ def formatta_contesto(chunks: list[dict]) -> str:
         righe.append(f"[Source {i+1} - {c['entita']}]\n{c['testo'][:400]}")
     return "\n\n".join(righe)
 
+def calcola_score_twostep(claim: str, chunks: list[dict]) -> dict:
+    """
+    Two-step scoring:
+    Step 1 — analisi libera del contesto vs claim
+    Step 2 — verdict basato sull'analisi, non sul contesto grezzo
+    """
+    contesto = formatta_contesto(chunks)
 
+    if not chunks:
+        return {"verdict": "NOT ENOUGH INFO", "score": 0.5,
+                "explanation": "No excerpts available", "num_fonti": 0}
+
+    # --- Step 1: analisi ---
+    prompt_analisi = f"""You are a fact-checking assistant.
+
+    Claim: "{claim}"
+    Source excerpts:
+    {contesto}
+
+    Does the context CONFIRM, CONTRADICT, or NOT MENTION the claim?
+    Be specific: if any detail in the claim is wrong (name, date, number, category), say so explicitly.
+    Write 2-3 sentences max."""
+
+    analisi = ollama.generate(
+        model=MODEL,
+        prompt=prompt_analisi,
+        options={"temperature": 0.0, "num_predict": 200}
+    )["response"].strip()
+
+    # --- Step 2: verdict ---
+    prompt_verdict = f"""You are a fact-checking assistant.
+
+        Claim: "{claim}"
+
+        Analysis: {analisi}
+
+        Based ONLY on this analysis, reply with a JSON object. No markdown, nothing else.
+        - "SUPPORTS": the analysis confirms the claim
+        - "REFUTES": the analysis says the claim is wrong or contradicted in any way
+        - "NOT ENOUGH INFO": the analysis says there is not enough information
+
+        {{"verdict": "SUPPORTS/REFUTES/NOT ENOUGH INFO", "score": 0.0-1.0, "explanation": "max 10 words"}}"""
+
+    risposta_raw = ollama.generate(
+        model=MODEL,
+        prompt=prompt_verdict,
+        options={"temperature": 0.0, "num_predict": 100}
+    )["response"]
+
+    # Parse JSON con fallback
+    inizio = risposta_raw.find("{")
+    fine = risposta_raw.rfind("}") + 1
+    try:
+        if fine > inizio:
+            risultato = json.loads(risposta_raw[inizio:fine])
+        else:
+            raise ValueError("JSON troncato")
+    except (json.JSONDecodeError, ValueError):
+        verdict = "NOT ENOUGH INFO"
+        for v in ["SUPPORTS", "REFUTES", "NOT ENOUGH INFO"]:
+            if v in risposta_raw:
+                verdict = v
+                break
+        risultato = {"verdict": verdict, "score": 0.5, "explanation": "[partial]"}
+
+    risultato["num_fonti"] = len(chunks)
+    risultato.setdefault("score", 0.5)
+    risultato.setdefault("explanation", "")
+    risultato.setdefault("verdict", "NOT ENOUGH INFO")
+    risultato["analysis"] = analisi  # utile per debug
+    return risultato
 def calcola_score(claim: str, chunks: list[dict]) -> dict:
     """
     Dato un claim e i chunk recuperati, chiede all'LLM il verdict.

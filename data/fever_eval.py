@@ -12,7 +12,7 @@ import sys
 sys.path.insert(0, "src")
 
 from retriever import carica_kb_statica, recupera_da_kb
-from scorer import calcola_score
+from scorer import calcola_score, calcola_score_twostep
 
 import os
 BASE_DIR    = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -55,7 +55,7 @@ for i, item in enumerate(subset):
             score       = 0.5
             explanation = "No chunks retrieved"
         else:
-            out         = calcola_score(claim_en, chunks)
+            out         = calcola_score_twostep(claim_en, chunks)
             verdict     = out["verdict"]
             score       = out["score"]
             explanation = out.get("explanation", "")
